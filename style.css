@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    background-color: rgba(102, 8, 82, 0.5);
+}
+
+td {
+    width: 5vw;
+    border: 5px solid rgba(0, 0, 0, 0);
+    text-align: center;
+}
+a{
+    color: black;
+}
+.espacamento {
+border-color: #00666600;
+}
+
+.header {
+    background-color: yellow;
+    padding: 5px;
+    font-size: 5vw;
+}
+
+.metais-alcalinos{
+    background-color:orange;
+}
+
+.metais-alcalinos-terrosos {
+    background-color: yellow;
+}
+
+.lantanídeos {
+    background-color: #4548eb;
+}
+
+.acnídeos {
+    background-color: #8c1fad;
+}
+
+.metais-de-transição {
+    background-color: #cc0669;
+}
+
+.metais-pos-transição {
+    background-color: #05d105;
+}
+
+.metaloides {
+    background-color: #006666;
+}
+
+.nao-metais {
+    background-color: #0b8500;
+}
+
+.gases-nobres {
+    background-color: blue;
+}
+
+.desconhecido {
+    background-color:green;
+}
+
+.text-color-solido {
+    color: black;
+}
+
+.text-color-liquido {
+    color: black;
+}
+
+.text-color-gas {
+    color: black;
+}
+
+.text-color-desconhecido {
+    color: black;
+}
+.lan{
+background-color: #4548eb;
+
+}
